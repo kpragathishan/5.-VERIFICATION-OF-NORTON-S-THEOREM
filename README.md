@@ -69,12 +69,13 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 10.	Draw the Thevenin’s equivalent circuit and Nortons’s equivalent circuit as shown in circuit diagrams 5 & 6 respectively.
 
 11.	Calculate the IL value using the formula
+12.	
 
    	Thevenin’s Theorem IL = VTh/ ( RTh+ R L)
 
    	Norton’s Theorem IL = IN * RN / ( RN + RL )
 
-12.	Theoretically verify the Norton’s theorem.
+13.	Theoretically verify the Norton’s theorem.
 
 **TABULAR COLUMN: 1**
 To measure I L
@@ -104,7 +105,7 @@ IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
  
-
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/28b49063-8d02-4a3e-affc-636a10ae8530" />
 
 **RESULT:**
 
